@@ -265,22 +265,22 @@ section {
   /* width: 60%;*/
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 85%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .pandas {
-  width: 95%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .tablaeu {
-  width: 80%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .ml {
   width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+.about-stats .progress-bars .progress-bar .progress-con .progress .pandas {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .tablaeu {
+  width: 95%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .ml {
   width: 75%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 85%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 60%;
+  width: 90%;
 }
 
 .stat-title {
